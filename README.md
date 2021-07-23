@@ -8,12 +8,19 @@ Github
 
 # Technologies Used
 Python
+
 Pandas Library
+
 Numpy Library
+
 Matplotlib Library
+
 Seaborn Library
+
 Standard Library
+
 SciPy Library
+
 Sci-Kit Library
 
 # Summary Of Analysis
